@@ -1,0 +1,58 @@
+package Coran;
+
+{$R *.res}
+{$R 'd:\program files\borland\delphi6\Imports\VtChartLib6_TLB.dcr'}
+{$R 'd:\program files\borland\delphi6\Imports\TTF160_TLB.dcr'}
+{$R 'd:\program files\borland\delphi6\udWebSnap\PackReg.dcr'}
+{$ALIGN 8}
+{ ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{ DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{ LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{ STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $51000000}
+{$DESCRIPTION 'Borland User Components'}
+{$LIBSUFFIX '60'}
+{$DESIGNONLY}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  designide,
+  dclwebsnap,
+  dbrtl,
+  websnap,
+  webdsnap,
+  inet;
+
+contains
+  VtChartLib6_TLB in 'd:\program files\borland\delphi6\Imports\VtChartLib6_TLB.pas',
+  TTF160_TLB in 'd:\program files\borland\delphi6\Imports\TTF160_TLB.pas',
+  nxWebSnapReg in '..\DrWebSnap\nxWebSnapReg.pas',
+  DBWebUserList in 'd:\program files\borland\delphi6\udWebSnap\DBWebUserList.pas',
+  DBSessionsService in 'd:\program files\borland\delphi6\udWebSnap\DBSessionsService.pas',
+  FieldPropertyEditor in 'd:\program files\borland\delphi6\udWebSnap\FieldPropertyEditor.pas',
+  PackReg in 'd:\program files\borland\delphi6\udWebSnap\PackReg.pas',
+  SessionUtils in 'd:\program files\borland\delphi6\udWebSnap\SessionUtils.pas',
+  UDEndUserSessionAdapter in 'd:\program files\borland\delphi6\udWebSnap\UDEndUserSessionAdapter.pas',
+  UDLoginFormAdapter in 'd:\program files\borland\delphi6\udWebSnap\UDLoginFormAdapter.pas',
+  UDStringsValuesList in 'd:\program files\borland\delphi6\udWebSnap\UDStringsValuesList.pas',
+  WebUser in 'd:\program files\borland\delphi6\udWebSnap\WebUser.pas',
+  WebUserListInterfaces in 'd:\program files\borland\delphi6\udWebSnap\WebUserListInterfaces.pas';
+
+end.

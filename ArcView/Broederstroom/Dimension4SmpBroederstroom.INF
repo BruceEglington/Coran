@@ -1,0 +1,4 @@
+[dbase]
+MDX=Dimension4SmpBroederstroom
+UIDX=PRIMARYKEY
+PRIMARY=PRIMARYKEY

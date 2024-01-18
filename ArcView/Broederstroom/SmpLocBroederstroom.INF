@@ -1,0 +1,4 @@
+[dbase]
+MDX=SmpLocBroederstroom
+UIDX=PRIMARYKEY
+PRIMARY=PRIMARYKEY

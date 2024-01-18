@@ -1,0 +1,1499 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"broederstroom.apr"
+	CreationDate:	"November 23, 2006 10:45:54 AM"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	20
+	Doc:	34
+	Buttons:	196
+	Buttons:	197
+	Buttons:	198
+	Scripts:	199
+	Prefs:	200
+	WorkDir:	1026
+	WinX:	-4
+	WinY:	-3
+	WinW:	1288
+	WinH:	777
+	SerialNumber:	"825911110416"
+	SelColor:	1027
+	GUINames:	1028
+	GUINames:	1029
+	GUINames:	1030
+	GUINames:	1031
+	GUINames:	1032
+	GUINames:	1033
+	GUINames:	1034
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"dimension4smp.dbf"
+	CreationDate:	"November 23, 2006 11:14:38 AM"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	9
+	VTab:	10
+)
+
+(DocWin.7
+	Owner:	6
+	X:	65
+	Y:	65
+	W:	365
+	H:	255
+)
+
+(CSMgr.8
+)
+
+(DocAct.9
+	Doc:	6
+)
+
+(VTab.10
+	Name:	"dimension4smp.dbf"
+	BTab:	11
+	Fields:	12
+	Fields:	13
+	Fields:	14
+	Fields:	15
+	Fields:	16
+	Fields:	17
+	SelBits:	19
+)
+
+(dBASE.11
+	Name:	"dimension4smp.dbf"
+	Fields:	12
+	Fields:	13
+	Fields:	14
+	Fields:	15
+	Fields:	16
+	Fields:	17
+	FileName:	18
+)
+
+(Field.12
+	Name:	"Groupname"
+	Btab:	11
+	Alias:	"Groupname"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.13
+	Name:	"Plotgroupn"
+	Btab:	11
+	Alias:	"Plotgroupn"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.14
+	Name:	"Samplenum"
+	Btab:	11
+	Alias:	"Samplenum"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	95
+)
+
+(Field.15
+	Name:	"Variableid"
+	Btab:	11
+	Alias:	"Variableid"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.16
+	Name:	"Classifica"
+	Btab:	11
+	Alias:	"Classifica"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	49
+)
+
+(Field.17
+	Name:	"Smpvalue"
+	Btab:	11
+	Alias:	"Smpvalue"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.18
+	Path:	"c:/devbds2006/coran/arcview/dimension4smp.dbf"
+)
+
+(Bitmap.19
+	NumBits:	15893
+
+)
+
+(Table.20
+	Name:	"smploc.dbf"
+	CreationDate:	"November 23, 2006 11:14:28 AM"
+	GUIName:	"Table"
+	Win:	21
+	CSMgr:	22
+	DocExts:	23
+	VTab:	24
+)
+
+(DocWin.21
+	Owner:	20
+	X:	50
+	Y:	50
+	W:	482
+	H:	255
+)
+
+(CSMgr.22
+)
+
+(DocAct.23
+	Doc:	20
+)
+
+(VTab.24
+	Name:	"smploc.dbf"
+	BTab:	25
+	Fields:	26
+	Fields:	27
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	SelBits:	33
+)
+
+(dBASE.25
+	Name:	"smploc.dbf"
+	Fields:	26
+	Fields:	27
+	Fields:	28
+	Fields:	29
+	Fields:	30
+	Fields:	31
+	FileName:	32
+)
+
+(Field.26
+	Name:	"Groupname"
+	Btab:	25
+	Alias:	"Groupname"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.27
+	Name:	"Plotgroupn"
+	Btab:	25
+	Alias:	"Plotgroupn"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.28
+	Name:	"Samplenum"
+	Btab:	25
+	Alias:	"Samplenum"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	95
+)
+
+(Field.29
+	Name:	"Longitude"
+	Btab:	25
+	Alias:	"Longitude"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.30
+	Name:	"Latitude"
+	Btab:	25
+	Alias:	"Latitude"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.31
+	Name:	"Elevation"
+	Btab:	25
+	Alias:	"Elevation"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.32
+	Path:	"c:/devbds2006/coran/arcview/smploc.dbf"
+)
+
+(Bitmap.33
+	NumBits:	691
+
+)
+
+(View.34
+	Name:	"View1"
+	CreationDate:	"November 23, 2006 10:45:55 AM"
+	GUIName:	"View"
+	Win:	35
+	CSMgr:	36
+	DocExts:	38
+	DocExts:	39
+	Graphics:	40
+	Theme:	47
+	Theme:	83
+	LastScale:	184325.98037091744000
+	Dpy:	41
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.35
+	Owner:	34
+	X:	-4
+	Y:	-4
+	W:	1290
+	H:	665
+)
+
+(CSMgr.36
+	Client:	37
+)
+
+(CSClient.37
+	Client:	38
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.38
+	Doc:	34
+)
+
+(DocAct.39
+	Doc:	34
+)
+
+(GList.40
+	Dpy:	41
+	FormatNumb:	46
+)
+
+(MapDpy.41
+	Left:	27.73750000916111
+	Bottom:	-26.01249998895797
+	Top:	-25.73749999433384
+	Right:	28.01250000378525
+	ReportUnits:	4
+	Units:	10
+	Scale:	42
+	FrameTop:	6.53125000000000
+	FrameRight:	11.71875000000000
+	PageDpy:	43
+	FitToPage:	1
+	MouseLoc:	45
+)
+
+(Numb.42
+	N:	23.75000046427924
+)
+
+(PageDpy.43
+	Top:	6.53125000000000
+	Right:	11.71875000000000
+	ReportUnits:	1
+	Units:	1
+	Scale:	44
+	ZoomRight:	11.71875000000000
+	ZoomTop:	6.53125000000000
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.44
+	N:	0.08533333333333
+)
+
+(PointD.45
+	x:	27.77302632425610
+	y:	-25.74057016971241
+)
+
+(Numb.46
+)
+
+(FTheme.47
+	Name:	"Smploc.dbf"
+	Source:	48
+	Flags:	0x06
+	Legend:	61
+	Threshold:	80
+	View:	34
+	GSet:	81
+	LegEditScript:	"View.EditLegend"
+	TxPos:	82
+	LabelField:	52
+	SnapTolCursor:	1
+)
+
+(XYSrc.48
+	Name:	49
+	FTab:	50
+	XField:	55
+	YField:	56
+)
+
+(XYName.49
+	Name:	"smploc.dbf"
+	OwnerClass:	"XYSrc"
+	VTab:	24
+	XField:	29
+	YField:	30
+)
+
+(FTab.50
+	Name:	"smploc.dbf"
+	BTab:	51
+	Fields:	59
+	Fields:	52
+	Fields:	53
+	Fields:	54
+	Fields:	55
+	Fields:	56
+	Fields:	57
+	SelBits:	60
+	FSrc:	48
+)
+
+(dBASE.51
+	Name:	"smploc.dbf"
+	Fields:	52
+	Fields:	53
+	Fields:	54
+	Fields:	55
+	Fields:	56
+	Fields:	57
+	FileName:	58
+)
+
+(Field.52
+	Name:	"Groupname"
+	Btab:	51
+	Alias:	"Groupname"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.53
+	Name:	"Plotgroupn"
+	Btab:	51
+	Alias:	"Plotgroupn"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.54
+	Name:	"Samplenum"
+	Btab:	51
+	Alias:	"Samplenum"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	95
+)
+
+(Field.55
+	Name:	"Longitude"
+	Btab:	51
+	Alias:	"Longitude"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.56
+	Name:	"Latitude"
+	Btab:	51
+	Alias:	"Latitude"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.57
+	Name:	"Elevation"
+	Btab:	51
+	Alias:	"Elevation"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(FN.58
+	Path:	"c:/devbds2006/coran/arcview/smploc.dbf"
+)
+
+(Field.59
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+)
+
+(Bitmap.60
+	NumBits:	691
+
+)
+
+(Legend.61
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	62
+	Class:	70
+	StdDevs:	1.00000000000000
+	NullSym:	71
+	NullValues:	78
+	StatValues:	79
+	Precision:	-3
+)
+
+(SymList.62
+	Child:	63
+)
+
+(BMkSym.63
+	Color:	64
+	BgColor:	65
+	Font:	66
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.64
+	Red:	0x9a0d
+	Green:	0xb44c
+	Blue:	0x4426
+)
+
+(TClr.65
+	Name:	"Transparent"
+)
+
+(NFont.66
+	Family:	67
+	Name:	68
+	Style:	69
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.67
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.68
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.69
+	S:	"Normal"
+)
+
+(LClass.70
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.71
+	Color:	72
+	BgColor:	73
+	Font:	74
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.72
+	Name:	"Transparent"
+)
+
+(TClr.73
+	Name:	"Transparent"
+)
+
+(NFont.74
+	Family:	75
+	Name:	76
+	Style:	77
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.75
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.76
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.77
+	S:	"Normal"
+)
+
+(NameDict.78
+)
+
+(NameDict.79
+)
+
+(Thresh.80
+)
+
+(GSet.81
+)
+
+(TxPosPt.82
+	HAlign:	4
+	VAlign:	3
+)
+
+(FTheme.83
+	Name:	"Geolnet_pol_dd.shp"
+	Source:	84
+	Flags:	0x07
+	Legend:	114
+	Threshold:	193
+	View:	34
+	GSet:	194
+	LegEditScript:	"View.EditLegend"
+	TxPos:	195
+	LabelField:	94
+	SnapTolCursor:	1
+)
+
+(ShpSrc.84
+	Name:	85
+	FTab:	87
+)
+
+(SrcName.85
+	FileName:	86
+	Name:	"geolnet_pol_dd.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.86
+	Path:	"c:/data/gis_africa/sa_geology/broederstroom/geolnet_pol_dd.shp"
+)
+
+(FTab.87
+	Name:	"geolnet_pol_dd.dbf"
+	BTab:	88
+	Fields:	112
+	Fields:	89
+	Fields:	90
+	Fields:	91
+	Fields:	92
+	Fields:	93
+	Fields:	94
+	Fields:	95
+	Fields:	96
+	Fields:	97
+	Fields:	98
+	Fields:	99
+	Fields:	100
+	Fields:	101
+	Fields:	102
+	Fields:	103
+	Fields:	104
+	Fields:	105
+	Fields:	106
+	Fields:	107
+	Fields:	108
+	Fields:	109
+	Fields:	110
+	SelBits:	113
+	FSrc:	84
+)
+
+(dBASE.88
+	Name:	"geolnet_pol_dd.dbf"
+	Fields:	89
+	Fields:	90
+	Fields:	91
+	Fields:	92
+	Fields:	93
+	Fields:	94
+	Fields:	95
+	Fields:	96
+	Fields:	97
+	Fields:	98
+	Fields:	99
+	Fields:	100
+	Fields:	101
+	Fields:	102
+	Fields:	103
+	Fields:	104
+	Fields:	105
+	Fields:	106
+	Fields:	107
+	Fields:	108
+	Fields:	109
+	Fields:	110
+	FileName:	111
+)
+
+(Field.89
+	Name:	"Area"
+	Btab:	88
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.90
+	Name:	"Perimeter"
+	Btab:	88
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.91
+	Name:	"Geolnet_lo"
+	Btab:	88
+	Alias:	"Geolnet_lo"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.92
+	Name:	"Geolnet__1"
+	Btab:	88
+	Alias:	"Geolnet__1"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.93
+	Name:	"Key"
+	Btab:	88
+	Alias:	"Key"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.94
+	Name:	"Label"
+	Btab:	88
+	Alias:	"Label"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.95
+	Name:	"Strat"
+	Btab:	88
+	Alias:	"Strat"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.96
+	Name:	"Uq_geol"
+	Btab:	88
+	Alias:	"Uq_geol"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.97
+	Name:	"Mapno"
+	Btab:	88
+	Alias:	"Mapno"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.98
+	Name:	"Objectid"
+	Btab:	88
+	Alias:	"Objectid"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.99
+	Name:	"Uq_geol_1"
+	Btab:	88
+	Alias:	"Uq_geol_1"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.100
+	Name:	"Uq_sacs_no"
+	Btab:	88
+	Alias:	"Uq_sacs_no"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.101
+	Name:	"Lithstrat"
+	Btab:	88
+	Alias:	"Lithstrat"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.102
+	Name:	"Lithrank"
+	Btab:	88
+	Alias:	"Lithrank"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.103
+	Name:	"Chronstrat"
+	Btab:	88
+	Alias:	"Chronstrat"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.104
+	Name:	"Chronrank"
+	Btab:	88
+	Alias:	"Chronrank"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.105
+	Name:	"Litho_grp"
+	Btab:	88
+	Alias:	"Litho_grp"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.106
+	Name:	"Descriptio"
+	Btab:	88
+	Alias:	"Descriptio"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.107
+	Name:	"Color_code"
+	Btab:	88
+	Alias:	"Color_code"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.108
+	Name:	"Hatch"
+	Btab:	88
+	Alias:	"Hatch"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.109
+	Name:	"Hatcht"
+	Btab:	88
+	Alias:	"Hatcht"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.110
+	Name:	"Text_label"
+	Btab:	88
+	Alias:	"Text_label"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.111
+	Path:	"c:/data/gis_africa/sa_geology/broederstroom/geolnet_pol_dd.dbf"
+)
+
+(Field.112
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.113
+	NumBits:	728
+
+)
+
+(Legend.114
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	115
+	Symbols:	116
+	Class:	173
+	Class:	174
+	Class:	175
+	Class:	176
+	Class:	177
+	Class:	178
+	Class:	179
+	Class:	180
+	Class:	181
+	Class:	182
+	Class:	183
+	Class:	184
+	Class:	185
+	Class:	186
+	StdDevs:	1.00000000000000
+	NullSym:	187
+	NullValues:	191
+	StatValues:	192
+	Precision:	-3
+)
+
+(AVStr.115
+	S:	"Uq_sacs_no"
+)
+
+(SymList.116
+	Child:	117
+	Child:	121
+	Child:	125
+	Child:	129
+	Child:	133
+	Child:	137
+	Child:	141
+	Child:	145
+	Child:	149
+	Child:	153
+	Child:	157
+	Child:	161
+	Child:	165
+	Child:	169
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	0.10000000000000
+	BgColor:	120
+)
+
+(TClr.118
+	Red:	0xc0ff
+	Green:	0x6538
+	Blue:	0x4920
+)
+
+(TClr.119
+)
+
+(TClr.120
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.121
+	Color:	122
+	Outline:	1
+	OutlineColor:	123
+	OutlineWidth:	0.10000000000000
+	BgColor:	124
+)
+
+(TClr.122
+	Red:	0xffff
+	Green:	0xd7d7
+)
+
+(TClr.123
+)
+
+(TClr.124
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.125
+	Color:	126
+	Outline:	1
+	OutlineColor:	127
+	OutlineWidth:	0.10000000000000
+	BgColor:	128
+)
+
+(TClr.126
+	Red:	0xbdbd
+	Green:	0xb7b7
+	Blue:	0x6b6b
+)
+
+(TClr.127
+)
+
+(TClr.128
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.129
+	Color:	130
+	Outline:	1
+	OutlineColor:	131
+	OutlineWidth:	0.10000000000000
+	BgColor:	132
+)
+
+(TClr.130
+	Red:	0xf7ff
+	Green:	0xb575
+	Blue:	0x67a7
+)
+
+(TClr.131
+)
+
+(TClr.132
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.133
+	Color:	134
+	Outline:	1
+	OutlineColor:	135
+	OutlineWidth:	0.10000000000000
+	BgColor:	136
+)
+
+(TClr.134
+	Red:	0xceff
+	Green:	0xc355
+	Blue:	0x9596
+)
+
+(TClr.135
+)
+
+(TClr.136
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.137
+	Color:	138
+	Outline:	1
+	OutlineColor:	139
+	OutlineWidth:	0.10000000000000
+	BgColor:	140
+)
+
+(TClr.138
+	Red:	0xcdcd
+	Green:	0x9b9b
+	Blue:	0x1d1d
+)
+
+(TClr.139
+)
+
+(TClr.140
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.141
+	Color:	142
+	Outline:	1
+	OutlineColor:	143
+	OutlineWidth:	0.10000000000000
+	BgColor:	144
+)
+
+(TClr.142
+	Red:	0xf0f0
+	Green:	0xe6e6
+	Blue:	0x8c8c
+)
+
+(TClr.143
+)
+
+(TClr.144
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.145
+	Color:	146
+	Outline:	1
+	OutlineColor:	147
+	OutlineWidth:	0.10000000000000
+	BgColor:	148
+)
+
+(TClr.146
+	Red:	0xa7b2
+	Green:	0xafff
+	Blue:	0x5e2f
+)
+
+(TClr.147
+)
+
+(TClr.148
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.149
+	Color:	150
+	Outline:	1
+	OutlineColor:	151
+	OutlineWidth:	0.10000000000000
+	BgColor:	152
+)
+
+(TClr.150
+	Red:	0xc0ff
+	Green:	0x90b1
+	Blue:	0x5834
+)
+
+(TClr.151
+)
+
+(TClr.152
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.153
+	Color:	154
+	Outline:	1
+	OutlineColor:	155
+	OutlineWidth:	0.10000000000000
+	BgColor:	156
+)
+
+(TClr.154
+	Red:	0x8b8b
+	Green:	0x4545
+	Blue:	0x1313
+)
+
+(TClr.155
+)
+
+(TClr.156
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.157
+	Color:	158
+	Outline:	1
+	OutlineColor:	159
+	OutlineWidth:	0.10000000000000
+	BgColor:	160
+)
+
+(TClr.158
+	Red:	0xacff
+	Green:	0x9619
+	Blue:	0xac
+)
+
+(TClr.159
+)
+
+(TClr.160
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.161
+	Color:	162
+	Outline:	1
+	OutlineColor:	163
+	OutlineWidth:	0.10000000000000
+	BgColor:	164
+)
+
+(TClr.162
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.163
+)
+
+(TClr.164
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.165
+	Color:	166
+	Outline:	1
+	OutlineColor:	167
+	OutlineWidth:	0.10000000000000
+	BgColor:	168
+)
+
+(TClr.166
+	Red:	0x8b8b
+	Green:	0x6969
+	Blue:	0x1414
+)
+
+(TClr.167
+)
+
+(TClr.168
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.169
+	Color:	170
+	Outline:	1
+	OutlineColor:	171
+	OutlineWidth:	0.10000000000000
+	BgColor:	172
+)
+
+(TClr.170
+	Name:	"Transparent"
+)
+
+(TClr.171
+	Name:	"Transparent"
+)
+
+(TClr.172
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.173
+	Label:	"0"
+	Precision:	-3
+)
+
+(LClass.174
+	Label:	"197"
+	MinNum:	197.00000000000000
+	MaxNum:	197.00000000000000
+	Precision:	-3
+)
+
+(LClass.175
+	Label:	"198"
+	MinNum:	198.00000000000000
+	MaxNum:	198.00000000000000
+	Precision:	-3
+)
+
+(LClass.176
+	Label:	"273"
+	MinNum:	273.00000000000000
+	MaxNum:	273.00000000000000
+	Precision:	-3
+)
+
+(LClass.177
+	Label:	"283"
+	MinNum:	283.00000000000000
+	MaxNum:	283.00000000000000
+	Precision:	-3
+)
+
+(LClass.178
+	Label:	"284"
+	MinNum:	284.00000000000000
+	MaxNum:	284.00000000000000
+	Precision:	-3
+)
+
+(LClass.179
+	Label:	"286"
+	MinNum:	286.00000000000000
+	MaxNum:	286.00000000000000
+	Precision:	-3
+)
+
+(LClass.180
+	Label:	"287"
+	MinNum:	287.00000000000000
+	MaxNum:	287.00000000000000
+	Precision:	-3
+)
+
+(LClass.181
+	Label:	"694"
+	MinNum:	694.00000000000000
+	MaxNum:	694.00000000000000
+	Precision:	-3
+)
+
+(LClass.182
+	Label:	"891"
+	MinNum:	891.00000000000000
+	MaxNum:	891.00000000000000
+	Precision:	-3
+)
+
+(LClass.183
+	Label:	"9005"
+	MinNum:	9005.00000000000000
+	MaxNum:	9005.00000000000000
+	Precision:	-3
+)
+
+(LClass.184
+	Label:	"9006"
+	MinNum:	9006.00000000000000
+	MaxNum:	9006.00000000000000
+	Precision:	-3
+)
+
+(LClass.185
+	Label:	"9049"
+	MinNum:	9049.00000000000000
+	MaxNum:	9049.00000000000000
+	Precision:	-3
+)
+
+(LClass.186
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+
+(BShSym.187
+	Color:	188
+	Outline:	1
+	OutlineColor:	189
+	OutlineWidth:	0.10000000000000
+	BgColor:	190
+)
+
+(TClr.188
+	Name:	"Transparent"
+)
+
+(TClr.189
+	Name:	"Transparent"
+)
+
+(TClr.190
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.191
+)
+
+(NameDict.192
+)
+
+(Thresh.193
+)
+
+(GSet.194
+)
+
+(TxPosPly.195
+	HAlign:	3
+	VAlign:	3
+)
+
+(LButn.196
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"Table.New"
+)
+
+(LButn.197
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.198
+	HelpTopic:	"Add_button"
+	Update:	"Table.ActionUpdate"
+	Label:	"&Add"
+	Click:	"Table.Action"
+)
+
+(NameDict.199
+)
+
+(NameDict.200
+	Obj:	201
+)
+
+(AVDict.201
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(FN.1026
+	Path:	"$HOME"
+)
+
+(TClr.1027
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.1028
+	S:	"View"
+)
+
+(AVStr.1029
+	S:	"Table"
+)
+
+(AVStr.1030
+	S:	"Chart"
+)
+
+(AVStr.1031
+	S:	"Layout"
+)
+
+(AVStr.1032
+	S:	"Script"
+)
+
+(AVStr.1033
+	S:	"Project"
+)
+
+(AVStr.1034
+	S:	"Appl"
+)
+
