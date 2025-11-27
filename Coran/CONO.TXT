@@ -1,0 +1,25 @@
+N	Class	Rock Unit	a	b	c	d	e	f	g	h	i	j	Total
+1	M	South Bend Ls	13	10	0	0	37	0	0	0	0	0	60
+2	O	Rock Lake Sh	0	0	0	0	11	0	0	0	0	0	11
+3	U	Stoner Ls	4	2	1	51	26	1	0	0	0	0	85
+4	B	Eudora Sh	0	7	1	207	350	0	0	34	14	3	606
+5	M	Captain Creek Ls	8	28	6	0	60	0	0	0	0	0	102
+6	O	Vilas Sh	145	20	5	0	10	0	0	0	0	0	180
+7	U	Spring Hill Ls	5	134	8	0	353	1	0	4	0	0	505
+8	P	Hickory Creek Sh	20	60	0	0	920	0	0	0	0	0	100
+9	M	Merriam Ls	115	255	10	0	1140	0	0	0	0	0	1520
+10	M	Bonner Springs Sh	1	0	0	0	3	0	0	0	0	0	4
+11	S	Farley Ls	31	21	7	0	4	1	0	0	0	0	61
+12	O	Island Creek Sh	100	5	0	0	5	0	0	0	0	0	110
+13	U	Argentine Ls	0	39	1	0	80	0	1	0	0	0	121
+14	P	Quindaro Sh	10	70	0	0	538	0	0	5	0	0	623
+15	M	Frisbee Ls	3	78	5	0	450	0	0	3	0	0	539
+16	O	Lane Sh	0	0	0	0	28	0	0	0	0	0	28
+17	U	Raytown Ls	38	20	3	100	267	3	0	25	0	0	456
+18	B	Muncie Creek Sh	15	8	0	243	515	0	10	85	55	13	946
+19	M	Paola Sh	10	130	10	200	900	0	0	50	0	0	1300
+20	O	Chanute Sh	117	20	0	63	57	0	0	7	0	0	264
+
+ Megacycothem classifications: paralic shale (O), shoal limestone (S), upper limestone (U), middle limestone (M), "phantom black" shale (P), black shale (B).
+Conodont varieties: a-Adetognathus; b-Ozarkodina; c-Aethotaxis; d-Idiognathodus delicatus; e-I. elegantulus; f-Magnilaterella; g-Hindeodella; h-Idioprioniodus; i-Gondolella; j-others.
+
